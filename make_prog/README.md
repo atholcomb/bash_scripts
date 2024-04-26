@@ -5,4 +5,4 @@
 ls
 
 ## To run new program and test output:
-./<new_of_new_program>
+`./<new_of_new_program>`
