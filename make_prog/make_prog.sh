@@ -14,4 +14,6 @@ echo "df -hT" >> $1
 
 # set the executable bit for the new program that was just created
 chmod +x $1
-./$1
+
+# uncomment to have the program tested in real-time
+#./$1
