@@ -6,6 +6,7 @@
 # create header information for each new program 
 touch $1
 echo "#!/bin/sh" > $1
+echo "# written by: atholcomb" >> $1
 echo "# $1" >> $1
 echo "# $1 example " >> $1
 
