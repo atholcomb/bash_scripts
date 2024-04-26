@@ -1,6 +1,6 @@
 #!/bin/sh
 # make_prog.sh
-# creates templates for new programs
+# template for new programs
  
 # create header information for each new program 
 touch $1
