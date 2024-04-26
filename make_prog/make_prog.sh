@@ -1,4 +1,5 @@
 #!/bin/sh
+# written by: atholcomb
 # make_prog.sh
 # template for new programs
  
