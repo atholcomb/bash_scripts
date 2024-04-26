@@ -1,4 +1,5 @@
 #!/bin/sh
+# written by: atholcomb
 # disk_util.sh
 # outputs basic disk_utility information
 
