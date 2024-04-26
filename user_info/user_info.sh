@@ -1,4 +1,5 @@
 #!/bin/sh
+# written by: atholcomb
 # user_info.sh
 # outputs general user information
 
