@@ -2,13 +2,13 @@
 # disk_util.sh
 # outputs basic disk_utility information
 
-# Generates standard disk utility info
+echo "Generate standard disk utility information"
 df -hT
 
 echo ""
-# List block storage
+echo "Block storage information"
 lsblk
 
 echo ""
-# List disk usage by size inside home directory
+echo "Disk usage by size inside home directory"
 du -ksh /home/*
