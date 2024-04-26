@@ -1,1 +1,2 @@
-# This is a test README.md
+## Execute program as follows:
+`./make_prog.sh <name_of_new_program>
