@@ -23,4 +23,6 @@ xvda    202:0    0   30G  0 disk
 └─xvda4 202:4    0 29.2G  0 part /
 ```
 
-`380K	/home/ec2-user`
+```
+380K	/home/ec2-user
+```
