@@ -1,7 +1,7 @@
-## Execute program as follows:
+### Execute program as follows:
 `./disk_util.sh`
 
-## Output should be as follows:
+### Output should be as follows:
 ```
 [ec2-user@rhel disk_util]$ ./disk_util.sh 
 Filesystem     Type      Size  Used Avail Use% Mounted on
